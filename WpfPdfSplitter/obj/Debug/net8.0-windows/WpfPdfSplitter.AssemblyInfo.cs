@@ -13,8 +13,8 @@ using System.Reflection;
 
 //[assembly: System.Reflection.AssemblyCompanyAttribute("WpfPdfSplitter")]
 //[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-//assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+//[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71c180948c71f1d814c16fccca99ba4acb415a9a")]
 //[assembly: System.Reflection.AssemblyProductAttribute("WpfPdfSplitter")]
 //[assembly: System.Reflection.AssemblyTitleAttribute("WpfPdfSplitter")]
 //[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

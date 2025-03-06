@@ -45,3 +45,4 @@ C:\Users\kiran\source\repos\WpfPdfSplitter\WpfPdfSplitter\bin\Debug\net8.0-windo
 C:\Users\kiran\source\repos\WpfPdfSplitter\WpfPdfSplitter\bin\Debug\net8.0-windows\de\PdfSharp.Charting.resources.dll
 C:\Users\kiran\source\repos\WpfPdfSplitter\WpfPdfSplitter\bin\Debug\net8.0-windows\de\PdfSharp.resources.dll
 C:\Users\kiran\source\repos\WpfPdfSplitter\WpfPdfSplitter\bin\Debug\net8.0-windows\Pdfium.NET.dll
+C:\Users\kiran\source\repos\WpfPdfSplitter\WpfPdfSplitter\obj\Debug\net8.0-windows\WpfPdfSplitter.sourcelink.json
